@@ -53,7 +53,7 @@ nav ul li a.active {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rgba(245, 245, 240, 0.767);
+    color: rgba(211, 212, 226, 0.862);
     text-shadow: 0 3px 8px rgba(0,0,0,0.5);
 }
 
